@@ -40,6 +40,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataStructure\PriorityQueue.cs" />
+    <Compile Include="MachineLearning\Clustering\AffinityPropagation.cs" />
+    <Compile Include="MachineLearning\Clustering\IClustering.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
